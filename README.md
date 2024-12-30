@@ -4,7 +4,7 @@ base^exp Power in O ln N time.
 
 Here's a `README.md` file for the provided algorithm:
 
-```markdown
+
 # Modular Exponentiation Algorithm
 
 This project implements a modular exponentiation algorithm using Python, which efficiently calculates \( \text{base}^\text{exp} \mod \text{const} \). The algorithm is used to solve a specific problem where the input values are read from a file, and the result is written to another file.
