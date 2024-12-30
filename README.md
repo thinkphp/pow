@@ -1,4 +1,5 @@
-# pow
+# Modular Exponentiation Algorithm
+
 base^exp Power in O ln N time.
 
 Examples:
